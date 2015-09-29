@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/nagasuga/grapher.png?branch=master)](https://travis-ci.org/nagasuga/grapher)
+
+
 Grapher
 =======
 
