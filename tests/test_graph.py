@@ -1,7 +1,7 @@
 from unittest import TestCase
 
 
-from .. import Graph, NodeNotFound, DuplicateNodeError, EdgeNotFound
+from grapher import Graph, NodeNotFound, DuplicateNodeError, EdgeNotFound
 
 
 class GraphTest(TestCase):
